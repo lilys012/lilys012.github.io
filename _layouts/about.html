@@ -9,7 +9,7 @@ layout: default
 	{% if page.profile %}
     <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
       {% if page.profile.image %}
-        <img class="img-fluid z-depth-1 rounded-circle" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}" >
+        <img class="img-fluid z-depth-1 rounded-circle" src="{{ page.profile.image | prepend: './assets/img/' | relative_url }}" >
       {% endif %}
       <div class="social">
           <span class="contact-icon text-center" style="line-height: 5em;">
