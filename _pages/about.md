@@ -14,8 +14,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hello ! I am a junior student at Seoul National University in Seoul, South Korea.
+Hello ! 
 
-I am majoring in Computer Science and Engineering, and Statistics.
+I am a junior student at Seoul National University in Seoul, South Korea.
 
-I am interested in Machine Learning, Data Mining and Natural Language Processing.
+I'm majoring in Computer Science and Engineering, and Statistics.
+
+My interests are Machine Learning, Data Mining and Natural Language Processing.

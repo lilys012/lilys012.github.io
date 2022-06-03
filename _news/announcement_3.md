@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2021-08-21 06:22:00
+date: 2021-08-21 06:22:00 KST
 inline: true
 ---
 

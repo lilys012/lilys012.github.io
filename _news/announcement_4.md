@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-04-19 21:49:00
+date: 2022-04-19 21:49:00 KST
 inline: true
 ---
 
