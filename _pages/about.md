@@ -20,4 +20,6 @@ I am a junior student at Seoul National University in Seoul, South Korea.
 
 I'm majoring in Computer Science and Engineering, and Statistics.
 
-My interests are Machine Learning, Data Mining and Natural Language Processing.
+My interests are Natural Language Processing, Machine Learning, and Data Mining.
+
+<!--Especially, I'm interested in Information Retrieval which can fully interpret the intention of query and retrieve appropriate documents.-->
