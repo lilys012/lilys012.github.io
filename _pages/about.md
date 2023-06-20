@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a target="_blank" href="https://snu.ac.kr/">Seoul National University</a> • <a target="_blank" href="https://cls.snu.ac.kr/">College of Liberal Studies</a>
+description: <a target="_blank" href="https://snu.ac.kr/">Seoul National University</a>
 
 profile:
   align: right
