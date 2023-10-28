@@ -199,7 +199,7 @@ SNU Semicon Scholarship <br> Merit-Based Scholarship <br> SCSC TA Scholarship <b
 
 ### Selected Coursework
 
-Natural Language Processing, Information Retrieval and Web Search, Principles of Machine Learning, ML for Visual Understanding, Pattern Recognition, Language and Computer, Statistical Computing and Lab, Mathematical Analysis, Information Theory, Network
+<span style="font-size:12px">Natural Language Processing, Information Retrieval and Web Search, Principles of Machine Learning, ML for Visual Understanding, Pattern Recognition, Language and Computer, Statistical Computing and Lab, Mathematical Analysis, Information Theory</span>
 
 ### Extracurricular
 LikeLion at SNU <br> Korean Augmentation to the US Army <br> SNU CLS Ambassador, SAENA <br> Student Council, Department of Major and Autonomy <br> International Olympiad in Informatics Training Camp in Korea
