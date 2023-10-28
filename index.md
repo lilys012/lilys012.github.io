@@ -50,10 +50,11 @@ I am interested in Natural Language Processing, especially Information Retrieval
 <div style="display:flex; justify-content:space-between">
     <span>
       <a href="https://www.nlp.utexas.edu/">UT Austin NLP Lab</a>
-      <span style="font-size:11px">Advisor: Dr. Eunsol Choi</span>
+      <!-- <span style="font-size:11px">Advisor: Dr. Eunsol Choi</span> -->
     </span>
     <span style="font-size:11px"> Aug 2023 - Present</span>
   </div>
+  <span style="font-size:11px">Advisor: Dr. Eunsol Choi</span>
   <!-- <ul style="margin:0">
   </ul> -->
 </p>
@@ -62,10 +63,11 @@ I am interested in Natural Language Processing, especially Information Retrieval
 <div style="display:flex; justify-content:space-between">
   <span>
     <a href="https://ldilab-snu.notion.site/ldilab-snu/Home-47ac59b6129f4dfb9d0f5603c317acda">Language and Data Intelligence Lab</a>
-    <span style="font-size:11px">Advisor: Dr. Seungwon Hwang</span>
+    <!-- <span style="font-size:11px">Advisor: Dr. Seungwon Hwang</span> -->
   </span>
     <span style="font-size:11px"> Jul 2023 - Present</span>
   </div>
+  <span style="font-size:11px">Advisor: Dr. Seungwon Hwang</span>
   <!-- <ul style="margin:0">
   </ul> -->
 </p>
@@ -74,10 +76,11 @@ I am interested in Natural Language Processing, especially Information Retrieval
 <div style="display:flex; justify-content:space-between">
 <span>
     <a href="http://milab.snu.ac.kr">Machine Intelligence Lab</a>
-    <span style="font-size:11px">Advisor: Dr. Kyomin Jung</span>
+    <!-- <span style="font-size:11px">Advisor: Dr. Kyomin Jung</span> -->
     </span>
     <span style="font-size:11px"> Jul 2022 - Jul 2023</span>
   </div>
+  <span style="font-size:11px">Advisor: Dr. Kyomin Jung</span>
   <ul style="margin:0">
     <li>Suggested ensemble schema to reduce uncertainty while performing data augmentation for pragmatic tagging. Ranked 1st on zero-shot track at ArgMining workshop.</li>
   </ul>
@@ -97,15 +100,17 @@ I am interested in Natural Language Processing, especially Information Retrieval
 
 <p style="margin-top:0">
   <b>Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty</b><span style="font-size:11px">, To Appear at EMNLP ArgMining 2023 
-  <!-- <a href="/assets/pdf/tripleR.pdf"> [pdf]</a> -->
+  <a href="/assets/pdf/enhancingCG.pdf"> [pdf]</a>
     <a href="https://github.com/lilys012/pragtag"> [code]</a></span> <br>
   <u>Yoonsang Lee</u><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung <br>
+  <img src="/assets/pdf/overview_enhancingCG.png" style="border: 1px solid #555; margin-top: 14px;" />
 </p>
 
 ### Projects
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-<b>Recontextualize, Revise and Retrieve</b><span style="font-size:11px">Spring 2023</span>
+<b>Recontextualize, Revise and Retrieve</b>
+<!-- <span style="font-size:11px">Spring 2023</span> -->
   </div>
 
   <ul style="margin:0">
@@ -116,7 +121,8 @@ I am interested in Natural Language Processing, especially Information Retrieval
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-<b>Modality Translation through Conditional Encoder-Decoder</b> <span style="font-size:11px">Spring 2023</span>
+<b>Modality Translation through Conditional Encoder-Decoder</b> 
+<!-- <span style="font-size:11px">Spring 2023</span> -->
   </div>
 
   <ul style="margin:0">
@@ -130,7 +136,8 @@ I am interested in Natural Language Processing, especially Information Retrieval
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
 <!-- <b><a href="./another-page">Private Mobile Chatbot Application</a></b> <span style="font-size:11px">Spring 2023</span> -->
-<b>Private Mobile Chatbot Application</b> <span style="font-size:11px">Spring 2023</span>
+<b>Private Mobile Chatbot Application</b> 
+<!-- <span style="font-size:11px">Spring 2023</span> -->
   </div>
 
   <ul style="margin:0">
@@ -142,7 +149,8 @@ I am interested in Natural Language Processing, especially Information Retrieval
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-<b>NowSee</b> <span style="font-size:11px">Fall 2022</span>
+<b>NowSee</b> 
+<!-- <span style="font-size:11px">Fall 2022</span> -->
   </div>
 
   <ul style="margin:0">
@@ -163,7 +171,8 @@ I am interested in Natural Language Processing, especially Information Retrieval
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-<b>Finding Abandoned Animals with Keywords</b> <span style="font-size:11px">Summer 2019</span>
+<b>Finding Abandoned Animals with Keywords</b>
+ <!-- <span style="font-size:11px">Summer 2019</span> -->
   </div>
 
   <ul style="margin:0">
@@ -174,7 +183,8 @@ I am interested in Natural Language Processing, especially Information Retrieval
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-<b>Collaborative Filtering Recommendation System Correcting User Bias</b> <span style="font-size:11px">Spring 2018</span>
+<b>Collaborative Filtering Recommendation System Correcting User Bias</b> 
+<!-- <span style="font-size:11px">Spring 2018</span> -->
   </div>
 
   <ul style="margin:0">
