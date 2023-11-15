@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello! I am a junior student at Seoul National University.
+Hello! I am a senior student at Seoul National University.
 
 I am interested in Natural Language Processing, especially Information Retrieval and Question Answering which can fully interpret the intention of query and retrieve appropriate documents or answer.
 
@@ -65,7 +65,7 @@ I am interested in Natural Language Processing, especially Information Retrieval
     <a href="https://ldilab-snu.notion.site/ldilab-snu/Home-47ac59b6129f4dfb9d0f5603c317acda">Language and Data Intelligence Lab</a>
     <!-- <span style="font-size:11px">Advisor: Dr. Seungwon Hwang</span> -->
   </span>
-    <span style="font-size:11px"> Jul 2023 - Present</span>
+    <span style="font-size:11px"> Jul - Oct 2023</span>
   </div>
   <span style="font-size:11px">Advisor: Dr. Seungwon Hwang</span>
   <!-- <ul style="margin:0">
@@ -99,11 +99,11 @@ I am interested in Natural Language Processing, especially Information Retrieval
 ### Publications
 
 <p style="margin-top:0">
-  <b>Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty</b><span style="font-size:11px">, To Appear at EMNLP ArgMining 2023 
+  <b>Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty</b><span style="font-size:11px">, EMNLP ArgMining 2023 
   <a href="/assets/pdf/enhancingCG.pdf"> [pdf]</a>
     <a href="https://github.com/lilys012/pragtag"> [code]</a></span> <br>
   <u>Yoonsang Lee</u><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung <br>
-  <img src="/assets/img/overview_enhancingCG.png" style="border: 1px solid #555; margin-top: 14px;" />
+  <!-- <img src="/assets/img/overview_enhancingCG.png" style="border: 1px solid #555; margin-top: 14px;" /> -->
 </p>
 
 ### Projects
