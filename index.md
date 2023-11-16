@@ -99,7 +99,7 @@ I am interested in Natural Language Processing, especially Information Retrieval
 ### Publications
 
 <p style="margin-top:0">
-  <b>Crafting In-context Examples according to an LM’s Parametric Knowledge</b><span style="font-size:11px">, arXiv 2023 
+  <b>Crafting In-context Examples according to LMs' Parametric Knowledge</b><span style="font-size:11px">, arXiv 2023 
   <a href="/assets/pdf/craftingIE.pdf"> [pdf]</a>
     <a href="https://github.com/lilys012/known_examples"> [code]</a></span> <br>
   <u>Yoonsang Lee</u><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi <br>
