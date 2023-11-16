@@ -99,11 +99,19 @@ I am interested in Natural Language Processing, especially Information Retrieval
 ### Publications
 
 <p style="margin-top:0">
+  <b>Crafting In-context Examples according to an LM’s Parametric Knowledge</b><span style="font-size:11px">, arXiv 2023 
+  <a href="/assets/pdf/craftingIE.pdf"> [pdf]</a>
+    <a href="https://github.com/lilys012/known_examples"> [code]</a></span> <br>
+  <u>Yoonsang Lee</u><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi <br>
+  <!-- <img src="/assets/img/png" style="border: 1px solid #555; margin-top: 14px;" /> -->
+</p>
+
+<p style="margin-top:0">
   <b>Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty</b><span style="font-size:11px">, EMNLP ArgMining 2023 
   <a href="/assets/pdf/enhancingCG.pdf"> [pdf]</a>
     <a href="https://github.com/lilys012/pragtag"> [code]</a></span> <br>
   <u>Yoonsang Lee</u><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung <br>
-  <!-- <img src="/assets/img/overview_enhancingCG.png" style="border: 1px solid #555; margin-top: 14px;" /> -->
+  <!-- <img src="/assets/img/png" style="border: 1px solid #555; margin-top: 14px;" /> -->
 </p>
 
 ### Projects
