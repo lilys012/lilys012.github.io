@@ -44,6 +44,20 @@ I am interested in Natural Language Processing, especially Information Retrieval
   </div>
 </p>
 
+### Publications
+
+<p style="margin-top:0">
+  <a href="https://arxiv.org/abs/2311.09579">Crafting In-context Examples according to LMs' Parametric Knowledge</a>
+  <u>Yoonsang Lee</u><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi, <span style="font-size:11px">arXiv 2023</span><br>
+  <!-- <img src="/assets/img/png" style="border: 1px solid #555; margin-top: 14px;" /> -->
+</p>
+
+<p style="margin-top:0">
+  <a href="https://aclanthology.org/2023.argmining-1.24/">Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty</a> <br>
+  <u>Yoonsang Lee</u><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung, <span style="font-size:11px">EMNLP ArgMining 2023 </span><br>
+  <!-- <img src="/assets/img/png" style="border: 1px solid #555; margin-top: 14px;" /> -->
+</p>
+
 ### Research Experience
 
 <p style="margin:0">
@@ -54,7 +68,7 @@ I am interested in Natural Language Processing, especially Information Retrieval
     </span>
     <span style="font-size:11px"> Aug 2023 - Present</span>
   </div>
-  <span style="font-size:11px">Advisor: Dr. Eunsol Choi</span>
+  <span style="font-size:11px">Research Assistant (Advisor: Dr. Eunsol Choi)</span>
   <!-- <ul style="margin:0">
   </ul> -->
 </p>
@@ -67,7 +81,7 @@ I am interested in Natural Language Processing, especially Information Retrieval
   </span>
     <span style="font-size:11px"> Jul - Oct 2023</span>
   </div>
-  <span style="font-size:11px">Advisor: Dr. Seungwon Hwang</span>
+  <span style="font-size:11px">Research Assistant (Advisor: Dr. Seungwon Hwang)</span>
   <!-- <ul style="margin:0">
   </ul> -->
 </p>
@@ -80,89 +94,46 @@ I am interested in Natural Language Processing, especially Information Retrieval
     </span>
     <span style="font-size:11px"> Jul 2022 - Jul 2023</span>
   </div>
-  <span style="font-size:11px">Advisor: Dr. Kyomin Jung</span>
-  <ul style="margin:0">
-    <li>Suggested ensemble schema to reduce uncertainty while performing data augmentation for pragmatic tagging. Ranked 1st on zero-shot track at ArgMining workshop.</li>
-  </ul>
+  <span style="font-size:11px">Research Assistant (Advisor: Dr. Kyomin Jung)</span>
 </p>
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-    <a href="https://naver-career.gitbook.io/kr/service/clova/naver-ai-lab">Naver AI Lab</a>
+    <a href="https://naver-career.gitbook.io/kr/service/clova/naver-ai-lab">Naver Clova AI Lab</a>
     <span style="font-size:11px"> Jan - Feb 2023</span>
   </div>
-  <ul style="margin:0">
-    <li>Implemented causal deep learning with alternating transformer on common DAG datasets</li>
-  </ul>
-</p>
-
-### Publications
-
-<p style="margin-top:0">
-  <b>Crafting In-context Examples according to LMs' Parametric Knowledge</b><span style="font-size:11px">, arXiv 2023 
-  <a href="/assets/pdf/craftingIE.pdf"> [pdf]</a>
-    <a href="https://github.com/lilys012/known_examples"> [code]</a></span> <br>
-  <u>Yoonsang Lee</u><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi <br>
-  <!-- <img src="/assets/img/png" style="border: 1px solid #555; margin-top: 14px;" /> -->
-</p>
-
-<p style="margin-top:0">
-  <b>Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty</b><span style="font-size:11px">, EMNLP ArgMining 2023 
-  <a href="/assets/pdf/enhancingCG.pdf"> [pdf]</a>
-    <a href="https://github.com/lilys012/pragtag"> [code]</a></span> <br>
-  <u>Yoonsang Lee</u><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung <br>
-  <!-- <img src="/assets/img/png" style="border: 1px solid #555; margin-top: 14px;" /> -->
+  <span style="font-size:11px">Research Intern</span>
 </p>
 
 ### Projects
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-<b>Recontextualize, Revise and Retrieve</b>
+<a href="./chatbot">Private Mobile Chatbot Application</a> 
 <!-- <span style="font-size:11px">Spring 2023</span> -->
   </div>
-
   <ul style="margin:0">
-    <li>Proposed novel method for recontextualizing and revising generated queries for dense retrieval. Achieved better performance compared to baseline. <a href="/assets/pdf/tripleR.pdf" style="font-size:11px"> [slide]</a>
-    <a href="https://github.com/lilys012/tripleR" style="font-size:11px"> [code]</a></li>
+    <li>Developed android chatbot application for automatic and private response of customer complaints. Implemented with homomorphic encryption, MPNet, and ChatGPT.</li>
   </ul>
 </p>
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-<b>Modality Translation through Conditional Encoder-Decoder</b> 
+<a href="/assets/pdf/modalityTT.pdf">Modality Translation through Conditional Encoder-Decoder</a> 
 <!-- <span style="font-size:11px">Spring 2023</span> -->
   </div>
-
   <ul style="margin:0">
-    <li>Designed general architecture that doesn’t rely on specific latent encoder-decoder architecture and provides more accurate latent space prediction across different modalities.
-      <a href="/assets/pdf/modalityTT.pdf" style="font-size:11px"> [pdf]</a>
-      <a href="https://youtu.be/vRlxPotdAZc" style="font-size:11px"> [video]</a>
-      </li>
+    <li>Designed general architecture that doesn’t rely on specific latent encoder-decoder architecture and provides more accurate latent space prediction across different modalities.</li>
   </ul>
 </p>
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-<!-- <b><a href="./another-page">Private Mobile Chatbot Application</a></b> <span style="font-size:11px">Spring 2023</span> -->
-<b>Private Mobile Chatbot Application</b> 
-<!-- <span style="font-size:11px">Spring 2023</span> -->
-  </div>
-
-  <ul style="margin:0">
-    <li>Developed android chatbot application for automatic and private response of customer complaints. Implemented with homomorphic encryption, MPNet, and ChatGPT. <a href="/assets/pdf/privateMC.pdf" style="font-size:11px"> [poster]</a>
-  <a href="https://youtu.be/NzjhgrYtedI" style="font-size:11px"> [video]</a></li>
-  </ul>
-
-</p>
-
-<p style="margin:0">
-<div style="display:flex; justify-content:space-between">
-<b>NowSee</b> 
+<a href="./nowsee">NowSee, Real-time Weather Community</a>
 <!-- <span style="font-size:11px">Fall 2022</span> -->
   </div>
 
   <ul style="margin:0">
-    <li>Developed web service for real-time weather community, where users can share live weather information and statistics. <a href="/assets/pdf/nowsee.pdf" style="font-size:11px"> [poster]</a> <a href="https://github.com/swsnu/swppfall2022-team6" style="font-size:11px"> [code]</a></li>
+    <li>Developed web service for real-time weather community, where users can share live weather information and statistics.</li>
   </ul>
 
 </p>
@@ -179,24 +150,22 @@ I am interested in Natural Language Processing, especially Information Retrieval
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-<b>Finding Abandoned Animals with Keywords</b>
+<a href="https://www.ebs.co.kr/tv/show?prodId=131075&lectId=20131843">Finding Abandoned Animals with Keywords</a> 
  <!-- <span style="font-size:11px">Summer 2019</span> -->
   </div>
-
   <ul style="margin:0">
-    <li>Developed python program for finding one’s abandoned animal based on specified categories and similar keywords, resulting better search than official service.   <a href="https://www.ebs.co.kr/tv/show?prodId=131075&lectId=20131843" style="font-size:11px"> [video]</a></li>
+    <li>Developed precise search program for finding one’s abandoned animal based on specified categories and similar keywords. </li>
   </ul>
 
 </p>
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-<b>Collaborative Filtering Recommendation System Correcting User Bias</b> 
+<a href="/assets/pdf/collaborativeFR.pdf">Collaborative Filtering Recommendation System Correcting User Bias Based on Comments-Rating Relationship</a> 
 <!-- <span style="font-size:11px">Spring 2018</span> -->
   </div>
-
   <ul style="margin:0">
-    <li>Suggested recommendation system using CNN trained by movie comments to unbias user ratings. <a href="/assets/pdf/collaborativeFR.pdf" style="font-size:11px"> [pdf]</a></li>
+    <li>Designed CNN based recommender system to unbias user ratings with movie comments. </li>
   </ul>
 </p>
 
@@ -213,7 +182,7 @@ I am interested in Natural Language Processing, especially Information Retrieval
 
 ### Awards and Honors
 
-SNU Semicon Scholarship <br> Merit-Based Scholarship <br> SCSC TA Scholarship <br> Silver, Korea Olympiad in Informatics <br> 4th Place, 2019 Selected Topic Seminar 2 Presentation <br> Army Commendation Medal
+SNU Semicon Scholarship <br> Merit-Based Scholarship <br> Silver, Korea Olympiad in Informatics <br> 4th Place, 2019 Selected Topic Seminar 2 Presentation <br> Army Commendation Medal
 
 ### Selected Coursework
 
