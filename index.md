@@ -2,9 +2,11 @@
 layout: default
 ---
 
-Hello! I am a senior student at Seoul National University.
+Hello! I am a senior student at Seoul National University. 
 
-I am interested in Natural Language Processing, especially Information Retrieval and Question Answering which can fully interpret the intention of query and retrieve appropriate documents or answer.
+My research lies in Natural Language Processing. I explore various components of Retrieval-Augmented LM to enhance information-seeking process. Also, I investigate interactions and mutual benefits between NLP technologies and humans. 
+
+<hr>
 
 ### Education
 
@@ -17,13 +19,12 @@ I am interested in Natural Language Processing, especially Information Retrieval
   <ul style="margin:0">
     <li>B.S. in Computer Science and Engineering</li>
     <li>B.S. in Mathematical Sciences</li>
-    <!-- <li style="list-style-type: none;"> -->
-    <!-- <li>
-    <details closed>
-		<summary>Selected Coursework</summary>
-    <span style="font-size:11px">Natural Language Processing, Information Retrieval and Web Search, Principles of Machine Learning, Machine Learning for Visual Understanding, Pattern Recognition, Language and Computer</span>
-    </details></li> -->
   </ul>
+<li style="list-style-type: none; margin-top: 5px">
+    <details closed>
+		<summary><em>Selected Coursework</em></summary>
+    <span style="font-size:11.5px">Natural Language Processing, Information Retrieval and Web Search, Human-Computer Interaction, ML for Visual Understanding, Statistical Computing, Creative Integrated Design</span>
+    </details></li>
 </p>
 
 <p style="margin:0">
@@ -33,7 +34,7 @@ I am interested in Natural Language Processing, especially Information Retrieval
   </div>
 
   <ul style="margin:0">
-    <li>Exchange Student</li>
+    <li>Exchange Student in Computer Science</li>
   </ul>
 </p>
 
@@ -42,21 +43,23 @@ I am interested in Natural Language Processing, especially Information Retrieval
     Gyeonggi Science High School for the Gifted
     <span style="font-size:11px">Mar 2016 - Feb 2019</span>
   </div>
-</p>
+</p> 
+<hr>
 
 ### Publications
 
 <p style="margin-top:0">
   <a href="https://arxiv.org/abs/2311.09579">Crafting In-context Examples according to LMs' Parametric Knowledge</a>
-  <u>Yoonsang Lee</u><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi, <span style="font-size:11px">arXiv 2023</span><br>
+  <u>Yoonsang Lee</u><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi, <span style="font-size:12px"><em>arXiv</em> 2023</span><br>
   <!-- <img src="/assets/img/png" style="border: 1px solid #555; margin-top: 14px;" /> -->
 </p>
 
 <p style="margin-top:0">
-  <a href="https://aclanthology.org/2023.argmining-1.24/">Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty</a> <br>
-  <u>Yoonsang Lee</u><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung, <span style="font-size:11px">EMNLP ArgMining 2023 </span><br>
+  <a href="https://aclanthology.org/2023.argmining-1.24/">MILAB at PragTag-2023: Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty</a> <br>
+  <u>Yoonsang Lee</u><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung, <span style="font-size:12px">EMNLP @ ArgMining 2023 </span><br>
   <!-- <img src="/assets/img/png" style="border: 1px solid #555; margin-top: 14px;" /> -->
 </p>
+<hr>
 
 ### Research Experience
 
@@ -96,14 +99,44 @@ I am interested in Natural Language Processing, especially Information Retrieval
   </div>
   <span style="font-size:11px">Research Assistant (Advisor: Dr. Kyomin Jung)</span>
 </p>
+<hr>
+
+### Internships
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-    <a href="https://naver-career.gitbook.io/kr/service/clova/naver-ai-lab">Naver Clova AI Lab</a>
+    <a href="https://naver-career.gitbook.io/kr/service/clova/naver-ai-lab">Naver Clova AI</a>
     <span style="font-size:11px"> Jan - Feb 2023</span>
   </div>
   <span style="font-size:11px">Research Intern</span>
 </p>
+<hr>
+
+### Teaching
+
+<div style="display:flex; justify-content:space-between;">
+    4190.407 Algorithms
+    <span style="font-size:11px"> Spring 2024</span>
+</div>
+<div style="display:flex; justify-content:space-between;">
+    4190.308 Computer Architecture
+    <span style="font-size:11px"> Spring 2023</span>
+</div>
+<div style="display:flex; justify-content:space-between; margin-bottom:20px">
+    4190.206A Electrical and Electronic Circuits
+    <span style="font-size:11px"> Fall 2020</span>
+</div>
+<hr>
+
+<!-- ### Honors and Awards
+
+SNU Semicon Scholarship <br> Merit-Based Scholarship <br> Silver, Korea Olympiad in Informatics <br> 4th Place, 2019 Selected Topic Seminar 2 Presentation <br> Army Commendation Medal
+<hr> -->
+
+<!-- ### Selected Coursework
+
+<span style="font-size:12px">Natural Language Processing, Information Retrieval and Web Search, Human-Computer Interaction, ML for Visual Understanding, Statistical Computing, Creative Integrated Design</span>
+<hr> -->
 
 ### Projects
 <p style="margin:0">
@@ -168,25 +201,7 @@ I am interested in Natural Language Processing, especially Information Retrieval
     <li>Designed CNN based recommender system to unbias user ratings with movie comments. </li>
   </ul>
 </p>
-
-### Teaching Experience
-
-<div style="display:flex; justify-content:space-between;">
-    Computer Architecture
-    <span style="font-size:11px"> Spring 2023</span>
-</div>
-<div style="display:flex; justify-content:space-between; margin-bottom:20px">
-    Electrical and Electronic Circuits
-    <span style="font-size:11px"> Fall 2020</span>
-</div>
-
-### Awards and Honors
-
-SNU Semicon Scholarship <br> Merit-Based Scholarship <br> Silver, Korea Olympiad in Informatics <br> 4th Place, 2019 Selected Topic Seminar 2 Presentation <br> Army Commendation Medal
-
-### Selected Coursework
-
-<span style="font-size:12px">Natural Language Processing, Information Retrieval and Web Search, Principles of Machine Learning, ML for Visual Understanding, Pattern Recognition, Language and Computer, Statistical Computing and Lab, Mathematical Analysis, Information Theory</span>
+<hr>
 
 ### Extracurricular
 LikeLion at SNU <br> Korean Augmentation to the US Army <br> SNU CLS Ambassador, SAENA <br> Student Council, Department of Major and Autonomy <br> International Olympiad in Informatics Training Camp in Korea
