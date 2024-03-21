@@ -4,7 +4,7 @@ layout: default
 
 Hello! I am a senior student at Seoul National University. 
 
-My research lies in Natural Language Processing. I explore various components of Retrieval-Augmented LM to enhance information-seeking process. Also, I investigate interactions and mutual benefits between NLP technologies and humans. 
+My research lies in Natural Language Processing. I explore various methods to enhance information-seeking process. Also, I investigate interactions and mutual benefits between NLP technologies and humans. 
 
 <hr>
 
@@ -21,9 +21,9 @@ My research lies in Natural Language Processing. I explore various components of
     <li>B.S. in Mathematical Sciences</li>
   </ul>
 <li style="list-style-type: none; margin-top: 5px">
-    <details closed>
+    <details>
 		<summary><em>Selected Coursework</em></summary>
-    <span style="font-size:11.5px">Natural Language Processing, Information Retrieval and Web Search, Human-Computer Interaction, ML for Visual Understanding, Statistical Computing, Creative Integrated Design</span>
+    <span style="font-size:11.5px">Natural Language Processing, Information Retrieval and Web Search, Human-Computer Interaction, ML for Visual Understanding, Pattern Recognition, Statistical Computing</span>
     </details></li>
 </p>
 
@@ -50,7 +50,7 @@ My research lies in Natural Language Processing. I explore various components of
 
 <p style="margin-top:0">
   <a href="https://arxiv.org/abs/2311.09579">Crafting In-context Examples according to LMs' Parametric Knowledge</a>
-  <u>Yoonsang Lee</u><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi, <span style="font-size:12px"><em>arXiv</em> 2023</span><br>
+  <u>Yoonsang Lee</u><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi, <span style="font-size:12px"><em>Findings of NAACL</em> 2024</span><br>
   <!-- <img src="/assets/img/png" style="border: 1px solid #555; margin-top: 14px;" /> -->
 </p>
 
