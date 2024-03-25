@@ -4,7 +4,7 @@ layout: default
 
 Hello! I am a senior student at Seoul National University. 
 
-My research lies in Natural Language Processing. I explore various methods to enhance information-seeking process. Also, I investigate interactions and mutual benefits between NLP technologies and humans. 
+My research lies in NLP, where I explore various methods to enhance information-seeking and reasoning abilities of language models. Also, I investigate interactions and synergies between NLP technologies and humans. 
 
 <hr>
 
