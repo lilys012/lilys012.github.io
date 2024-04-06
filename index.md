@@ -18,7 +18,6 @@ My research lies in NLP, where I explore various methods to enhance information-
 
   <ul style="margin:0">
     <li>B.S. in Computer Science and Engineering</li>
-    <li>B.S. in Mathematical Sciences</li>
   </ul>
 <li style="list-style-type: none; margin-top: 5px">
     <details>
@@ -47,6 +46,11 @@ My research lies in NLP, where I explore various methods to enhance information-
 <hr>
 
 ### Publications
+
+<p style="margin-top:0">
+  <span>AmbigDocs: Reasoning across Documents on Different Entities under the Same Name</span><br>
+  <u>Yoonsang Lee</u>, Xi Ye, Eunsol Choi, <span style="font-size:12px"><em>arXiv</em> 2024</span><br>
+</p>
 
 <p style="margin-top:0">
   <a href="https://arxiv.org/abs/2311.09579">Crafting In-context Examples according to LMs' Parametric Knowledge</a>
