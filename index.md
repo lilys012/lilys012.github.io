@@ -4,7 +4,7 @@ layout: default
 
 Hello! I am a senior student at Seoul National University. 
 
-My research lies in NLP, where I explore various methods to enhance information-seeking and reasoning abilities of language models. Also, I investigate interactions and synergies between NLP technologies and humans. 
+My research lies in NLP, where I explore various behaviours of language models, such as information-seeking, in-context learning, and reasoning. Also, I investigate interactions and synergies between NLP technologies and humans. 
 
 <hr>
 
@@ -48,12 +48,12 @@ My research lies in NLP, where I explore various methods to enhance information-
 ### Publications
 
 <p style="margin-top:0">
-  <span>AmbigDocs: Reasoning across Documents on Different Entities under the Same Name</span><br>
+  <a href="https://arxiv.org/abs/2404.12447">AmbigDocs: Reasoning across Documents on Different Entities under the Same Name</a> <br>
   <u>Yoonsang Lee</u>, Xi Ye, Eunsol Choi, <span style="font-size:12px"><em>arXiv</em> 2024</span><br>
 </p>
 
 <p style="margin-top:0">
-  <a href="https://arxiv.org/abs/2311.09579">Crafting In-context Examples according to LMs' Parametric Knowledge</a>
+  <a href="https://arxiv.org/abs/2311.09579">Crafting In-context Examples according to LMs' Parametric Knowledge</a> <br>
   <u>Yoonsang Lee</u><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi, <span style="font-size:12px"><em>Findings of NAACL</em> 2024</span><br>
   <!-- <img src="/assets/img/png" style="border: 1px solid #555; margin-top: 14px;" /> -->
 </p>
@@ -109,10 +109,9 @@ My research lies in NLP, where I explore various methods to enhance information-
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-    <a href="https://naver-career.gitbook.io/kr/service/clova/naver-ai-lab">Naver Clova AI</a>
+    Naver Clova AI
     <span style="font-size:11px"> Jan - Feb 2023</span>
   </div>
-  <span style="font-size:11px">Research Intern</span>
 </p>
 <hr>
 
@@ -207,8 +206,8 @@ SNU Semicon Scholarship <br> Merit-Based Scholarship <br> Silver, Korea Olympiad
 </p>
 <hr>
 
-### Extracurricular
-LikeLion at SNU <br> Korean Augmentation to the US Army <br> SNU CLS Ambassador, SAENA <br> Student Council, Department of Major and Autonomy <br> International Olympiad in Informatics Training Camp in Korea
+<!-- ### Extracurricular
+LikeLion at SNU <br> Korean Augmentation to the US Army <br> SNU CLS Ambassador, SAENA <br> Student Council, Department of Major and Autonomy <br> International Olympiad in Informatics Training Camp in Korea -->
 
 
 <!-- ### Small image
