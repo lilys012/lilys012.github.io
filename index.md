@@ -4,7 +4,7 @@ layout: default
 
 Hello! I am a senior student at Seoul National University. 
 
-My research lies in NLP, where I explore various behaviours of language models, such as information-seeking, in-context learning, and reasoning. Also, I investigate interactions and synergies between NLP technologies and humans. 
+My research lies in NLP, where I explore various behaviours of language models, such as reasoning, in-context learning, and information-seeking. Also, I am interested in interactions between NLP technologies and humans. 
 
 <hr>
 
@@ -22,14 +22,14 @@ My research lies in NLP, where I explore various behaviours of language models, 
 <li style="list-style-type: none; margin-top: 5px">
     <details>
 		<summary><em>Selected Coursework</em></summary>
-    <span style="font-size:11.5px">Natural Language Processing, Information Retrieval and Web Search, Human-Computer Interaction, ML for Visual Understanding, Pattern Recognition, Statistical Computing</span>
+    <span style="font-size:11.5px">Natural Language Processing, Information Retrieval and Web Search, Human-Computer Interaction, ML for Visual Understanding, Pattern Recognition, Language and Computer</span>
     </details></li>
 </p>
 
 <p style="margin:0">
   <div style="display:flex; justify-content:space-between">
     <a href="https://www.utexas.edu">The University of Texas at Austin</a>
-    <span style="font-size:11px">Aug - Dec 2023</span>
+    <span style="font-size:11px">Aug 2023 - Dec 2023</span>
   </div>
 
   <ul style="margin:0">
@@ -49,18 +49,19 @@ My research lies in NLP, where I explore various behaviours of language models, 
 
 <p style="margin-top:0">
   <a href="https://arxiv.org/abs/2404.12447">AmbigDocs: Reasoning across Documents on Different Entities under the Same Name</a> <br>
-  <u>Yoonsang Lee</u>, Xi Ye, Eunsol Choi, <span style="font-size:12px"><em>arXiv</em> 2024</span><br>
+  <b>Yoonsang Lee</b>, Xi Ye, Eunsol Choi, <span style="font-size:12px"><em>arXiv</em> 2024</span><br>
+  <span style="font-size:12px"><a href="https://ambigdocs.github.io">[Project Website]</a></span>
 </p>
 
 <p style="margin-top:0">
   <a href="https://arxiv.org/abs/2311.09579">Crafting In-context Examples according to LMs' Parametric Knowledge</a> <br>
-  <u>Yoonsang Lee</u><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi, <span style="font-size:12px"><em>Findings of NAACL</em> 2024</span><br>
+  <b>Yoonsang Lee</b><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi, <span style="font-size:12px"><em>Findings of NAACL</em> 2024</span><br>
   <!-- <img src="/assets/img/png" style="border: 1px solid #555; margin-top: 14px;" /> -->
 </p>
 
 <p style="margin-top:0">
   <a href="https://aclanthology.org/2023.argmining-1.24/">MILAB at PragTag-2023: Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty</a> <br>
-  <u>Yoonsang Lee</u><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung, <span style="font-size:12px">EMNLP @ ArgMining 2023 </span><br>
+  <b>Yoonsang Lee</b><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung, <span style="font-size:12px">EMNLP @ ArgMining 2023 </span><br>
   <!-- <img src="/assets/img/png" style="border: 1px solid #555; margin-top: 14px;" /> -->
 </p>
 <hr>
@@ -73,9 +74,9 @@ My research lies in NLP, where I explore various behaviours of language models, 
       <a href="https://www.nlp.utexas.edu/">UT Austin NLP Lab</a>
       <!-- <span style="font-size:11px">Advisor: Dr. Eunsol Choi</span> -->
     </span>
-    <span style="font-size:11px"> Aug 2023 - Present</span>
+    <span style="font-size:11px"> Aug 2023 - May 2024</span>
   </div>
-  <span style="font-size:11px">Research Assistant (Advisor: Dr. Eunsol Choi)</span>
+  <span style="font-size:12px">Research Assistant (Advisor: Dr. <a href="https://eunsol.github.io">Eunsol Choi</a>)</span>
   <!-- <ul style="margin:0">
   </ul> -->
 </p>
@@ -86,31 +87,20 @@ My research lies in NLP, where I explore various behaviours of language models, 
     <a href="https://ldilab-snu.notion.site/ldilab-snu/Home-47ac59b6129f4dfb9d0f5603c317acda">Language and Data Intelligence Lab</a>
     <!-- <span style="font-size:11px">Advisor: Dr. Seungwon Hwang</span> -->
   </span>
-    <span style="font-size:11px"> Jul - Oct 2023</span>
+    <span style="font-size:11px"> Jul 2023 - Oct 2023</span>
   </div>
-  <span style="font-size:11px">Research Assistant (Advisor: Dr. Seungwon Hwang)</span>
+  <span style="font-size:12px">Research Assistant (Advisor: Dr. <a href="https://seungwonh.github.io">Seungwon Hwang</a>)</span>
   <!-- <ul style="margin:0">
   </ul> -->
 </p>
-
-<p style="margin:0">
-<div style="display:flex; justify-content:space-between">
-<span>
-    <a href="http://milab.snu.ac.kr">Machine Intelligence Lab</a>
-    <!-- <span style="font-size:11px">Advisor: Dr. Kyomin Jung</span> -->
-    </span>
-    <span style="font-size:11px"> Jul 2022 - Jul 2023</span>
-  </div>
-  <span style="font-size:11px">Research Assistant (Advisor: Dr. Kyomin Jung)</span>
-</p>
 <hr>
 
-### Internships
+### Work Experience
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
     Naver Clova AI
-    <span style="font-size:11px"> Jan - Feb 2023</span>
+    <span style="font-size:11px"> Jan 2023 - Feb 2023</span>
   </div>
 </p>
 <hr>
@@ -142,6 +132,16 @@ SNU Semicon Scholarship <br> Merit-Based Scholarship <br> Silver, Korea Olympiad
 <hr> -->
 
 ### Projects
+<p style="margin:0">
+<div style="display:flex; justify-content:space-between">
+<a href=".">Interactive Dashboard for AI Researchers on X</a> 
+<!-- <span style="font-size:11px">Spring 2023</span> -->
+  </div>
+  <ul style="margin:0">
+    <li>Ongoing Project</li>
+  </ul>
+</p>
+
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
 <a href="./chatbot">Private Mobile Chatbot Application</a> 
