@@ -2,9 +2,16 @@
 layout: default
 ---
 
-Hello! I am a senior student at Seoul National University. 
+Hello! I am a senior student at Seoul National University.
 
-My research lies in NLP, where I explore various behaviours of language models, such as reasoning, in-context learning, and information-seeking. Also, I am interested in interactions between NLP technologies and humans. 
+My research focuses on natural language processing, with the goal of designing AI systems that enhance human experiences. Current areas of interest include:
+
+<ul style="margin-bottom:14px;padding-left:20px;">
+  <li>Knowledgeable LMs: Developing language models that effectively represent and utilize world knowledge.</li>
+  <li>Human-Centered NLP: Enhancing NLP technologies by learning from human-LM interactions and integrating human factors.</li>
+</ul>
+
+I am a Ph.D. Applicant for 2025 Fall!
 
 <hr>
 
@@ -19,11 +26,11 @@ My research lies in NLP, where I explore various behaviours of language models, 
   <ul style="margin:0">
     <li>B.S. in Computer Science and Engineering</li>
   </ul>
-<li style="list-style-type: none; margin-top: 5px">
+<!-- <li style="list-style-type: none; margin-top: 5px">
     <details>
 		<summary><em>Selected Coursework</em></summary>
     <span style="font-size:11.5px">Natural Language Processing, Information Retrieval and Web Search, Human-Computer Interaction, ML for Visual Understanding, Pattern Recognition, Language and Computer</span>
-    </details></li>
+    </details></li> -->
 </p>
 
 <p style="margin:0">
@@ -48,21 +55,26 @@ My research lies in NLP, where I explore various behaviours of language models, 
 ### Publications
 
 <p style="margin-top:0">
+  <span>Meta-Prompting Efficient Task-Adaptive Query Generator for Retrieval</span> <br>
+  <b>Yoonsang Lee</b>, Minsoo Kim, Seungwon Hwang<br><span style="font-size:13px"><em>Under Review</em></span><br>
+</p>
+
+<p style="margin-top:0">
   <a href="https://arxiv.org/abs/2404.12447">AmbigDocs: Reasoning across Documents on Different Entities under the Same Name</a> <br>
-  <b>Yoonsang Lee</b>, Xi Ye, Eunsol Choi, <span style="font-size:12px"><em>arXiv</em> 2024</span><br>
+  <span style="font-size:13px"><b>Yoonsang Lee</b>, Xi Ye, Eunsol Choi<br><em>Under Review</em></span><br>
   <span style="font-size:12px"><a href="https://ambigdocs.github.io">[Project Website]</a></span>
 </p>
 
 <p style="margin-top:0">
   <a href="https://arxiv.org/abs/2311.09579">Crafting In-context Examples according to LMs' Parametric Knowledge</a> <br>
-  <b>Yoonsang Lee</b><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi, <span style="font-size:12px"><em>Findings of NAACL</em> 2024</span><br>
-  <!-- <img src="/assets/img/png" style="border: 1px solid #555; margin-top: 14px;" /> -->
+  <span style="font-size:13px"><b>Yoonsang Lee</b><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi<br><em>Findings of NAACL</em> 2024</span><br>
+  <span style="font-size:12px"><a href="./assets/pdf/craftingIE_poster.pdf">[poster]</a></span>
 </p>
 
 <p style="margin-top:0">
   <a href="https://aclanthology.org/2023.argmining-1.24/">MILAB at PragTag-2023: Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty</a> <br>
-  <b>Yoonsang Lee</b><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung, <span style="font-size:12px">EMNLP @ ArgMining 2023 </span><br>
-  <!-- <img src="/assets/img/png" style="border: 1px solid #555; margin-top: 14px;" /> -->
+  <span style="font-size:13px"><b>Yoonsang Lee</b><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung<br>EMNLP @ ArgMining 2023 </span><br>
+  <span style="font-size:12px"><a href="./assets/pdf/enhancingCG_poster.pdf">[poster]</a></span>
 </p>
 <hr>
 
@@ -71,12 +83,25 @@ My research lies in NLP, where I explore various behaviours of language models, 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
     <span>
-      <a href="https://www.nlp.utexas.edu/">UT Austin NLP Lab</a>
+      <a href="https://www.kixlab.org">KIXLAB</a>
+      <!-- <span style="font-size:11px">Advisor: Dr. Eunsol Choi</span> -->
+    </span>
+    <span style="font-size:11px"> Jul 2024 - Present</span>
+  </div>
+  <span style="font-size:12px">Research Assistant (Advisor: Prof. <a href="https://juhokim.com">Juho Kim</a>)</span>
+  <!-- <ul style="margin:0">
+  </ul> -->
+</p>
+
+<p style="margin:0">
+<div style="display:flex; justify-content:space-between">
+    <span>
+      <a href="https://www.nlp.utexas.edu/">UT NLP Lab</a>
       <!-- <span style="font-size:11px">Advisor: Dr. Eunsol Choi</span> -->
     </span>
     <span style="font-size:11px"> Aug 2023 - May 2024</span>
   </div>
-  <span style="font-size:12px">Research Assistant (Advisor: Dr. <a href="https://eunsol.github.io">Eunsol Choi</a>)</span>
+  <span style="font-size:12px">Research Assistant (Advisor: Prof. <a href="https://eunsol.github.io">Eunsol Choi</a>)</span>
   <!-- <ul style="margin:0">
   </ul> -->
 </p>
@@ -89,7 +114,19 @@ My research lies in NLP, where I explore various behaviours of language models, 
   </span>
     <span style="font-size:11px"> Jul 2023 - Oct 2023</span>
   </div>
-  <span style="font-size:12px">Research Assistant (Advisor: Dr. <a href="https://seungwonh.github.io">Seungwon Hwang</a>)</span>
+  <span style="font-size:12px">Research Assistant (Advisor: Prof. <a href="https://seungwonh.github.io">Seungwon Hwang</a>)</span>
+  <!-- <ul style="margin:0">
+  </ul> -->
+</p>
+
+<p style="margin:0">
+<div style="display:flex; justify-content:space-between">
+  <span>
+    <a href="http://milab.snu.ac.kr">Machine Intelligence Lab</a>
+  </span>
+    <span style="font-size:11px"> Jul 2022 - Jul 2023</span>
+  </div>
+  <span style="font-size:12px">Research Assistant (Advisor: Prof. <a href="http://milab.snu.ac.kr/kjung/index.html">Kyomin Jung</a>)</span>
   <!-- <ul style="margin:0">
   </ul> -->
 </p>
@@ -132,6 +169,7 @@ SNU Semicon Scholarship <br> Merit-Based Scholarship <br> Silver, Korea Olympiad
 <hr> -->
 
 ### Projects
+
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
 <a href=".">Interactive Dashboard for AI Researchers on X</a> 
@@ -208,7 +246,6 @@ SNU Semicon Scholarship <br> Merit-Based Scholarship <br> Silver, Korea Olympiad
 
 <!-- ### Extracurricular
 LikeLion at SNU <br> Korean Augmentation to the US Army <br> SNU CLS Ambassador, SAENA <br> Student Council, Department of Major and Autonomy <br> International Olympiad in Informatics Training Camp in Korea -->
-
 
 <!-- ### Small image
 
