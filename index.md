@@ -4,7 +4,7 @@ layout: default
 
 Hello! I am a senior student at Seoul National University.
 
-My research focuses on NLP with the goal of designing AI technologies that enhance human-human and human-AI communications. Current areas of interest include:
+My research focuses on NLP with the goal of designing AI technologies that enhance human-human and human-AI communication. Current areas of interest include:
 
 <ul style="margin-bottom:14px;padding-left:20px;">
   <li><b>Knowledgeable LMs</b>: Developing language models that effectively represent and utilize world knowledge.</li>
@@ -86,7 +86,7 @@ I am a Ph.D Applicant for 2025 Fall!
       <a href="https://www.kixlab.org">KIXLAB</a>
       <!-- <span style="font-size:11px">Advisor: Dr. Eunsol Choi</span> -->
     </span>
-    <span style="font-size:11px"> Jun 2024 - Present</span>
+    <span style="font-size:11px"> Jul 2024 - Present</span>
   </div>
   <span style="font-size:12px">(Advisor: Prof. <a href="https://juhokim.com">Juho Kim</a>)</span>
   <!-- <ul style="margin:0">
@@ -143,6 +143,15 @@ I am a Ph.D Applicant for 2025 Fall!
 <hr>
 
 ### Teaching
+
+<div><b>Instructor</b></div>
+
+<div style="display:flex; justify-content:space-between; margin-bottom:15px;">
+    054.003 Understanding Large Language Models
+    <span style="font-size:11px"> Fall 2024</span>
+</div>
+
+<div><b>Teaching Assistant</b></div>
 
 <div style="display:flex; justify-content:space-between;">
     4190.407 Algorithms
