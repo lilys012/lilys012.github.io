@@ -4,7 +4,7 @@ layout: default
 
 Hello! I am a senior student at Seoul National University.
 
-My research focuses on NLP with the goal of designing AI technologies that enhance human-human and human-AI communication. Current areas of interest include:
+My research focuses on NLP with the goal of designing technologies that enhance human-human and human-AI communication. Current areas of interest include:
 
 <ul style="margin-bottom:14px;padding-left:20px;">
   <li><b>Knowledgeable LMs</b>: Developing language models that effectively represent and utilize world knowledge.</li>
@@ -61,19 +61,19 @@ I am a Ph.D Applicant for 2025 Fall!
 
 <p style="margin-top:0">
   <a href="https://arxiv.org/abs/2404.12447">AmbigDocs: Reasoning across Documents on Different Entities under the Same Name</a> <br>
-  <span style="font-size:13px"><b>Yoonsang Lee</b>, Xi Ye, Eunsol Choi<br><em>Under Review</em></span><br>
+  <span style="font-size:13px"><b>Yoonsang Lee</b>, Xi Ye, Eunsol Choi<br>COLM 2024</span><br>
   <span style="font-size:12px"><a href="https://ambigdocs.github.io">[Project Website]</a></span>
 </p>
 
 <p style="margin-top:0">
-  <a href="https://arxiv.org/abs/2311.09579">Crafting In-context Examples according to LMs' Parametric Knowledge</a> <br>
-  <span style="font-size:13px"><b>Yoonsang Lee</b><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi<br><em>Findings of NAACL</em> 2024</span><br>
+  <a href="https://aclanthology.org/2024.findings-naacl.133/">Crafting In-context Examples according to LMs' Parametric Knowledge</a> <br>
+  <span style="font-size:13px"><b>Yoonsang Lee</b><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi<br>Findings of NAACL 2024</span><br>
   <span style="font-size:12px"><a href="./assets/pdf/craftingIE_poster.pdf">[poster]</a></span>
 </p>
 
 <p style="margin-top:0">
   <a href="https://aclanthology.org/2023.argmining-1.24/">MILAB at PragTag-2023: Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty</a> <br>
-  <span style="font-size:13px"><b>Yoonsang Lee</b><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung<br>EMNLP @ ArgMining 2023 </span><br>
+  <span style="font-size:13px"><b>Yoonsang Lee</b><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung<br>ArgMining @ EMNLP 2023 </span><br>
   <span style="font-size:12px"><a href="./assets/pdf/enhancingCG_poster.pdf">[poster]</a></span>
 </p>
 <hr>
@@ -144,7 +144,7 @@ I am a Ph.D Applicant for 2025 Fall!
 
 ### Teaching
 
-<div><b>Instructor</b></div>
+<div><b>Organizer</b></div>
 
 <div style="display:flex; justify-content:space-between; margin-bottom:15px;">
     054.003 Understanding Large Language Models
@@ -165,6 +165,17 @@ I am a Ph.D Applicant for 2025 Fall!
     4190.206A Electrical and Electronic Circuits
     <span style="font-size:11px"> Fall 2020</span>
 </div>
+<hr>
+
+### Service
+
+<div><b>Reviewer</b></div>
+<p style="margin:0">
+<div style="display:flex; justify-content:space-between">
+    ACL SRW
+    <span style="font-size:11px"> 2024</span>
+  </div>
+</p>
 <hr>
 
 <!-- ### Honors and Awards
