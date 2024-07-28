@@ -8,7 +8,7 @@ My research focuses on NLP with the goal of designing technologies that enhance 
 
 <ul style="margin-bottom:14px;padding-left:20px;">
   <li><b>Knowledgeable LMs</b>: Developing language models that effectively represent and utilize world knowledge.</li>
-  <li><b>Human-LM Interaction</b>: Enabling language models to collaborate with humans and learn from interactions.</li>
+  <li><b>Human-Centered NLP</b>: Enabling language models to align to human values and learn from interactions.</li>
 </ul>
 
 I am a Ph.D Applicant for 2025 Fall!
@@ -106,18 +106,15 @@ I am a Ph.D Applicant for 2025 Fall!
   </ul> -->
 </p>
 
-<p style="margin:0">
+<!-- <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
   <span>
     <a href="https://ldilab-snu.notion.site/ldilab-snu/Home-47ac59b6129f4dfb9d0f5603c317acda">Language and Data Intelligence Lab</a>
-    <!-- <span style="font-size:11px">Advisor: Dr. Seungwon Hwang</span> -->
   </span>
-    <span style="font-size:11px"> Jul 2023 - Oct 2023</span>
+    <span style="font-size:11px"></span>
   </div>
   <span style="font-size:12px">(Advisor: Prof. <a href="https://seungwonh.github.io">Seungwon Hwang</a>)</span>
-  <!-- <ul style="margin:0">
-  </ul> -->
-</p>
+</p> -->
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
@@ -170,12 +167,12 @@ I am a Ph.D Applicant for 2025 Fall!
 ### Service
 
 <div><b>Reviewer</b></div>
-<p style="margin:0">
-<div style="display:flex; justify-content:space-between">
-    ACL SRW
-    <span style="font-size:11px"> 2024</span>
+<div style="display:flex; justify-content:space-between;">
+    EMNLP<span style="font-size:11px"> 2024</span>
   </div>
-</p>
+<div style="display:flex; justify-content:space-between; margin-bottom:20px">
+    ACL SRW<span style="font-size:11px"> 2024</span>
+  </div>
 <hr>
 
 <!-- ### Honors and Awards
