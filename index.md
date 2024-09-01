@@ -4,11 +4,12 @@ layout: default
 
 Hello! I am a senior student at Seoul National University.
 
-My research focuses on NLP with the goal of designing technologies that enhance human-human and human-AI communication. Current areas of interest include:
+My research focuses on NLP, where I am mainly interested in how world knowledge could be effectively represented through language technologies. Current areas of interest include:
 
 <ul style="margin-bottom:14px;padding-left:20px;">
-  <li><b>Knowledgeable LMs</b>: Developing language models that effectively represent and utilize world knowledge.</li>
-  <li><b>Human-Centered NLP</b>: Enabling language models to align to human values and learn from interactions.</li>
+  <li><b>Non-parametric LMs</b>: Developing language models that appropriately utilize external resources.</li>
+  <li><b>In-context Learning</b>: Understanding and invoking language model behaviours through in-context demonstrations.</li>
+  <li><b>Human-Centered NLP</b>: Enabling language models to learn from interactions and align to pluralistic human values.</li>
 </ul>
 
 I am a Ph.D Applicant for 2025 Fall!
@@ -83,10 +84,23 @@ I am a Ph.D Applicant for 2025 Fall!
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
     <span>
-      <a href="https://www.kixlab.org">KIXLAB</a>
+      <a href="https://wp.nyu.edu/cilvr/">CILVR Lab</a>
       <!-- <span style="font-size:11px">Advisor: Dr. Eunsol Choi</span> -->
     </span>
-    <span style="font-size:11px"> Jul 2024 - Present</span>
+    <span style="font-size:11px"> Sep 2024 - Present</span>
+  </div>
+  <span style="font-size:12px">(Advisor: Prof. <a href="https://eunsol.github.io">Eunsol Choi</a>)</span>
+  <!-- <ul style="margin:0">
+  </ul> -->
+</p>
+
+<p style="margin:0">
+<div style="display:flex; justify-content:space-between">
+    <span>
+      <a href="https://www.kixlab.org">Kaist Interaction Lab</a>
+      <!-- <span style="font-size:11px">Advisor: Dr. Eunsol Choi</span> -->
+    </span>
+    <span style="font-size:11px"> Jul 2024 - Sep 2024</span>
   </div>
   <span style="font-size:12px">(Advisor: Prof. <a href="https://juhokim.com">Juho Kim</a>)</span>
   <!-- <ul style="margin:0">
@@ -166,14 +180,15 @@ I am a Ph.D Applicant for 2025 Fall!
 
 ### Service
 
-<div><b>Reviewer</b></div>
-<div style="display:flex; justify-content:space-between;">
+<div><b>Conference Reviewer</b>: EMNLP 2024</div>
+<div><b>Workshop Reviewer</b>: ACL SRW 2024</div>
+<!-- <div style="display:flex; justify-content:space-between;">
     EMNLP<span style="font-size:11px"> 2024</span>
   </div>
 <div style="display:flex; justify-content:space-between; margin-bottom:20px">
     ACL SRW<span style="font-size:11px"> 2024</span>
-  </div>
-<hr>
+  </div> -->
+<!-- <hr> -->
 
 <!-- ### Honors and Awards
 
@@ -185,12 +200,12 @@ SNU Semicon Scholarship <br> Merit-Based Scholarship <br> Silver, Korea Olympiad
 <span style="font-size:12px">Natural Language Processing, Information Retrieval and Web Search, Human-Computer Interaction, ML for Visual Understanding, Statistical Computing, Creative Integrated Design</span>
 <hr> -->
 
-### Projects
+<!-- ### Projects
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-<a href=".">Interactive Dashboard for AI Researchers on X</a> 
-<!-- <span style="font-size:11px">Spring 2023</span> -->
+<a href=".">Interactive Dashboard for AI Researchers on X</a>
+<span style="font-size:11px">Spring 2023</span>
   </div>
   <ul style="margin:0">
     <li>Ongoing Project</li>
@@ -199,8 +214,8 @@ SNU Semicon Scholarship <br> Merit-Based Scholarship <br> Silver, Korea Olympiad
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-<a href="./chatbot">Private Mobile Chatbot Application</a> 
-<!-- <span style="font-size:11px">Spring 2023</span> -->
+<a href="./chatbot">Private Mobile Chatbot Application</a>
+<span style="font-size:11px">Spring 2023</span>
   </div>
   <ul style="margin:0">
     <li>Developed android chatbot application for automatic and private response of customer complaints. Implemented with homomorphic encryption, MPNet, and ChatGPT.</li>
@@ -209,8 +224,8 @@ SNU Semicon Scholarship <br> Merit-Based Scholarship <br> Silver, Korea Olympiad
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-<a href="/assets/pdf/modalityTT.pdf">Modality Translation through Conditional Encoder-Decoder</a> 
-<!-- <span style="font-size:11px">Spring 2023</span> -->
+<a href="/assets/pdf/modalityTT.pdf">Modality Translation through Conditional Encoder-Decoder</a>
+<span style="font-size:11px">Spring 2023</span>
   </div>
   <ul style="margin:0">
     <li>Designed general architecture that doesn’t rely on specific latent encoder-decoder architecture and provides more accurate latent space prediction across different modalities.</li>
@@ -220,14 +235,14 @@ SNU Semicon Scholarship <br> Merit-Based Scholarship <br> Silver, Korea Olympiad
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
 <a href="./nowsee">NowSee, Real-time Weather Community</a>
-<!-- <span style="font-size:11px">Fall 2022</span> -->
+<span style="font-size:11px">Fall 2022</span>
   </div>
 
   <ul style="margin:0">
     <li>Developed web service for real-time weather community, where users can share live weather information and statistics.</li>
   </ul>
 
-</p>
+</p> -->
 
 <!-- <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
@@ -239,10 +254,10 @@ SNU Semicon Scholarship <br> Merit-Based Scholarship <br> Silver, Korea Olympiad
   </ul>
 </p> -->
 
-<p style="margin:0">
+<!-- <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-<a href="https://www.ebs.co.kr/tv/show?prodId=131075&lectId=20131843">Finding Abandoned Animals with Keywords</a> 
- <!-- <span style="font-size:11px">Summer 2019</span> -->
+<a href="https://www.ebs.co.kr/tv/show?prodId=131075&lectId=20131843">Finding Abandoned Animals with Keywords</a>
+ <span style="font-size:11px">Summer 2019</span>
   </div>
   <ul style="margin:0">
     <li>Developed precise search program for finding one’s abandoned animal based on specified categories and similar keywords. </li>
@@ -252,14 +267,14 @@ SNU Semicon Scholarship <br> Merit-Based Scholarship <br> Silver, Korea Olympiad
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-<a href="/assets/pdf/collaborativeFR.pdf">Collaborative Filtering Recommendation System Correcting User Bias Based on Comments-Rating Relationship</a> 
-<!-- <span style="font-size:11px">Spring 2018</span> -->
+<a href="/assets/pdf/collaborativeFR.pdf">Collaborative Filtering Recommendation System Correcting User Bias Based on Comments-Rating Relationship</a>
+<span style="font-size:11px">Spring 2018</span>
   </div>
   <ul style="margin:0">
     <li>Designed CNN based recommender system to unbias user ratings with movie comments. </li>
   </ul>
 </p>
-<hr>
+<hr> -->
 
 <!-- ### Extracurricular
 LikeLion at SNU <br> Korean Augmentation to the US Army <br> SNU CLS Ambassador, SAENA <br> Student Council, Department of Major and Autonomy <br> International Olympiad in Informatics Training Camp in Korea -->
