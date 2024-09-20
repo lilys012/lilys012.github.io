@@ -56,8 +56,8 @@ I am a Ph.D Applicant for 2025 Fall!
 ### Publications
 
 <p style="margin-top:0">
-  <span>Meta-Prompting Efficient Task-Adaptive Query Generator for Retrieval</span> <br>
-  <b>Yoonsang Lee</b>, Minsoo Kim, Seung-won Hwang<br><span style="font-size:13px">Findings of EMNLP 2024</span><br>
+<a href="">Meta-Prompting Efficient Task-Adaptive Query Generator for Retrieval</a> <br>
+<span style="font-size:13px"><b>Yoonsang Lee</b>, Minsoo Kim, Seung-won Hwang<br>Findings of EMNLP 2024</span>
 </p>
 
 <p style="margin-top:0">
