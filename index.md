@@ -7,9 +7,9 @@ Hello! I am a senior student at Seoul National University.
 My research focuses on NLP, where I am mainly interested in how world knowledge could be effectively represented through language technologies. Current areas of interest include:
 
 <ul style="margin-bottom:14px;padding-left:20px;">
-  <li><b>Non-parametric LMs</b>: Developing language models that appropriately utilize external resources.</li>
+  <li><b>Non-parametric LM</b>: Developing language models that appropriately utilize external resources.</li>
   <li><b>In-context Learning</b>: Understanding and invoking language model behaviours through in-context demonstrations.</li>
-  <li><b>Human-Centered NLP</b>: Enabling language models to learn from interactions and align to pluralistic human values.</li>
+  <li><b>Human-LM Interaction</b>: Enabling language models to learn from interactions and align to pluralistic human values.</li>
 </ul>
 
 I am a Ph.D Applicant for 2025 Fall!
@@ -57,11 +57,11 @@ I am a Ph.D Applicant for 2025 Fall!
 
 <p style="margin-top:0">
   <span>Meta-Prompting Efficient Task-Adaptive Query Generator for Retrieval</span> <br>
-  <b>Yoonsang Lee</b>, Minsoo Kim, Seungwon Hwang<br><span style="font-size:13px"><em>Under Review</em></span><br>
+  <b>Yoonsang Lee</b>, Minsoo Kim, Seung-won Hwang<br><span style="font-size:13px">Findings of EMNLP 2024</span><br>
 </p>
 
 <p style="margin-top:0">
-  <a href="https://arxiv.org/abs/2404.12447">AmbigDocs: Reasoning across Documents on Different Entities under the Same Name</a> <br>
+  <a href="https://openreview.net/forum?id=mkYCfO822n">AmbigDocs: Reasoning across Documents on Different Entities under the Same Name</a> <br>
   <span style="font-size:13px"><b>Yoonsang Lee</b>, Xi Ye, Eunsol Choi<br>COLM 2024</span><br>
   <span style="font-size:12px"><a href="https://ambigdocs.github.io">[Project Website]</a></span>
 </p>
@@ -84,10 +84,10 @@ I am a Ph.D Applicant for 2025 Fall!
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
     <span>
-      <a href="https://wp.nyu.edu/cilvr/">CILVR Lab</a>
+      <a href="https://www.nlp.utexas.edu/">UT NLP Lab</a>
       <!-- <span style="font-size:11px">Advisor: Dr. Eunsol Choi</span> -->
     </span>
-    <span style="font-size:11px"> Sep 2024 - Present</span>
+    <span style="font-size:11px"> Aug 2023 - Present</span>
   </div>
   <span style="font-size:12px">(Advisor: Prof. <a href="https://eunsol.github.io">Eunsol Choi</a>)</span>
   <!-- <ul style="margin:0">
@@ -100,22 +100,9 @@ I am a Ph.D Applicant for 2025 Fall!
       <a href="https://www.kixlab.org">Kaist Interaction Lab</a>
       <!-- <span style="font-size:11px">Advisor: Dr. Eunsol Choi</span> -->
     </span>
-    <span style="font-size:11px"> Jul 2024 - Sep 2024</span>
+    <span style="font-size:11px"> Jul 2024 - Oct 2024</span>
   </div>
   <span style="font-size:12px">(Advisor: Prof. <a href="https://juhokim.com">Juho Kim</a>)</span>
-  <!-- <ul style="margin:0">
-  </ul> -->
-</p>
-
-<p style="margin:0">
-<div style="display:flex; justify-content:space-between">
-    <span>
-      <a href="https://www.nlp.utexas.edu/">UT NLP Lab</a>
-      <!-- <span style="font-size:11px">Advisor: Dr. Eunsol Choi</span> -->
-    </span>
-    <span style="font-size:11px"> Aug 2023 - May 2024</span>
-  </div>
-  <span style="font-size:12px">(Advisor: Prof. <a href="https://eunsol.github.io">Eunsol Choi</a>)</span>
   <!-- <ul style="margin:0">
   </ul> -->
 </p>
@@ -180,7 +167,7 @@ I am a Ph.D Applicant for 2025 Fall!
 
 ### Service
 
-<div><b>Conference Reviewer</b>: EMNLP 2024</div>
+<div><b>Conference Reviewer</b>: ACL ARR 2024</div>
 <div><b>Workshop Reviewer</b>: ACL SRW 2024</div>
 <!-- <div style="display:flex; justify-content:space-between;">
     EMNLP<span style="font-size:11px"> 2024</span>
