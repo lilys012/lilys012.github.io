@@ -8,8 +8,8 @@ My research focuses on NLP, where I am mainly interested in how world knowledge 
 
 <ul style="margin-bottom:14px;padding-left:20px;">
   <li><b>Non-parametric LM</b>: Developing language models that appropriately utilize external resources.</li>
-  <li><b>In-context Learning</b>: Understanding and invoking language model behaviours through in-context demonstrations.</li>
-  <li><b>Human-LM Interaction</b>: Enabling language models to learn from interactions and align to pluralistic human values.</li>
+  <li><b>LLM Understanding</b>: Understanding and invoking language model behaviours (e.g., in-context learning, factuality).</li>
+  <li><b>Human-LM Interaction</b>: Enabling language models to learn from interaction and align to pluralistic human values.</li>
 </ul>
 
 I am a Ph.D Applicant for 2025 Fall!
@@ -56,7 +56,7 @@ I am a Ph.D Applicant for 2025 Fall!
 ### Publications
 
 <p style="margin-top:0">
-<a href="">Meta-Prompting Efficient Task-Adaptive Query Generator for Retrieval</a> <br>
+<a href="https://arxiv.org/abs/2409.16570">Disentangling Questions from Query Generation for Task-Adaptive Retrieval</a> <br>
 <span style="font-size:13px"><b>Yoonsang Lee</b>, Minsoo Kim, Seung-won Hwang<br>Findings of EMNLP 2024 (short)</span>
 </p>
 
@@ -168,7 +168,7 @@ I am a Ph.D Applicant for 2025 Fall!
 ### Service
 
 <div><b>Conference Reviewer</b>: ACL ARR 2024</div>
-<div><b>Workshop Reviewer</b>: ACL SRW 2024</div>
+<div><b>Workshop Reviewer</b>: ACL SRW 2024, ENLSP 2024</div>
 <!-- <div style="display:flex; justify-content:space-between;">
     EMNLP<span style="font-size:11px"> 2024</span>
   </div>
