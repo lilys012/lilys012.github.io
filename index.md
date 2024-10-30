@@ -7,9 +7,9 @@ Hello! I am a senior student at Seoul National University.
 My research focuses on NLP, where I am mainly interested in how world knowledge could be effectively represented through language technologies. Current areas of interest include:
 
 <ul style="margin-bottom:14px;padding-left:20px;">
-  <li><b>Non-parametric LM</b>: Developing language models that appropriately utilize external resources.</li>
+  <li><b>Retrieval-augmented LMs</b>: Developing language models that can well utilize non-parametric datastore.</li>
   <li><b>LLM Understanding</b>: Understanding and invoking language model behaviours (e.g., in-context learning, factuality).</li>
-  <li><b>Human-LM Interaction</b>: Enabling language models to learn from interaction and align to pluralistic human values.</li>
+  <li><b>Human-LM Interaction</b>: Enabling language models to learn from interactions with humans and the world.</li>
 </ul>
 
 I am a Ph.D Applicant for 2025 Fall!
@@ -56,14 +56,20 @@ I am a Ph.D Applicant for 2025 Fall!
 ### Publications
 
 <p style="margin-top:0">
+<a href="https://arxiv.org/abs/2410.20088">RARe: Retrieval Augmented Retrieval With In-context Examples</a> <br>
+<span style="font-size:13px">Atula Tejaswi, <b>Yoonsang Lee</b>, Sujay Sanghavi, Eunsol Choi<br>arXiv Preprint 2024</span>
+</p>
+
+<p style="margin-top:0">
 <a href="https://arxiv.org/abs/2409.16570">Disentangling Questions from Query Generation for Task-Adaptive Retrieval</a> <br>
-<span style="font-size:13px"><b>Yoonsang Lee</b>, Minsoo Kim, Seung-won Hwang<br>Findings of EMNLP 2024 (short)</span>
+<span style="font-size:13px"><b>Yoonsang Lee</b>, Minsoo Kim, Seung-won Hwang<br>Findings of EMNLP 2024 (short)</span> <br>
+<span style="font-size:12px"><a href="./assets/pdf/DisentanglingQF_poster.pdf">[poster]</a></span>
 </p>
 
 <p style="margin-top:0">
   <a href="https://openreview.net/forum?id=mkYCfO822n">AmbigDocs: Reasoning across Documents on Different Entities under the Same Name</a> <br>
   <span style="font-size:13px"><b>Yoonsang Lee</b>, Xi Ye, Eunsol Choi<br>COLM 2024</span><br>
-  <span style="font-size:12px"><a href="https://ambigdocs.github.io">[Project Website]</a></span>
+  <span style="font-size:12px"><a href="https://ambigdocs.github.io">[Project Website]</a> <a href="./assets/pdf/ambigdocsRA_poster.pdf">[poster]</a></span>
 </p>
 
 <p style="margin-top:0">
@@ -79,7 +85,7 @@ I am a Ph.D Applicant for 2025 Fall!
 </p>
 <hr>
 
-### Research Experience
+### Experiences
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
@@ -128,9 +134,9 @@ I am a Ph.D Applicant for 2025 Fall!
   <!-- <ul style="margin:0">
   </ul> -->
 </p>
-<hr>
+<!-- <hr> -->
 
-### Work Experience
+<!-- ### Work Experience -->
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
@@ -142,7 +148,7 @@ I am a Ph.D Applicant for 2025 Fall!
 
 ### Teaching
 
-<div><b>Organizer</b></div>
+<div><b>Instructor</b></div>
 
 <div style="display:flex; justify-content:space-between; margin-bottom:15px;">
     054.003 Understanding Large Language Models
@@ -167,7 +173,7 @@ I am a Ph.D Applicant for 2025 Fall!
 
 ### Service
 
-<div><b>Conference Reviewer</b>: ACL ARR 2024</div>
+<div><b>Conference Reviewer</b>: ACL ARR 2024, ICLR 2024</div>
 <div><b>Workshop Reviewer</b>: ACL SRW 2024, ENLSP 2024</div>
 <!-- <div style="display:flex; justify-content:space-between;">
     EMNLP<span style="font-size:11px"> 2024</span>
