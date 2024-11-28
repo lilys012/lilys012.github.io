@@ -4,12 +4,12 @@ layout: default
 
 Hello! I am a senior student at Seoul National University.
 
-My research focuses on NLP, where I am mainly interested in how world knowledge could be effectively represented through language technologies. Current areas of interest include:
+My research focuses on NLP, where I am mainly interested in language models that adapt well to new scenarios and acquire meaningful knowledge. Current areas of interest include:
 
 <ul style="margin-bottom:14px;padding-left:20px;">
-  <li><b>Retrieval-augmented LMs</b>: Developing language models that can well utilize non-parametric datastore.</li>
-  <li><b>LLM Understanding</b>: Understanding and invoking language model behaviours (e.g., in-context learning, factuality).</li>
-  <li><b>Human-LM Interaction</b>: Enabling language models to learn from interactions with humans and the world.</li>
+  <li><b>Retrieval-Augmented Generation</b>: Leveraging external documents to provide factual and contextually grounded responses.</li>
+  <li><b>Human-LM Interaction</b>: Enabling language models to learn from and tailor to human interaction.</li>
+  <li><b>LLM Understanding</b>: Understanding the capabilities of current large language models (e.g., in-context learning, factuality).</li>
 </ul>
 
 I am a Ph.D Applicant for 2025 Fall!
@@ -62,7 +62,7 @@ I am a Ph.D Applicant for 2025 Fall!
 
 <p style="margin-top:0">
 <a href="https://arxiv.org/abs/2409.16570">Disentangling Questions from Query Generation for Task-Adaptive Retrieval</a> <br>
-<span style="font-size:13px"><b>Yoonsang Lee</b>, Minsoo Kim, Seung-won Hwang<br>Findings of EMNLP 2024 (short)</span> <br>
+<span style="font-size:13px"><b>Yoonsang Lee</b>, Minsoo Kim, Seung-won Hwang<br>Findings of EMNLP 2024 (short)<br>ENLSP Workshop @ NeurIPS 2024</span> <br>
 <span style="font-size:12px"><a href="./assets/pdf/DisentanglingQF_poster.pdf">[poster]</a></span>
 </p>
 
@@ -80,7 +80,7 @@ I am a Ph.D Applicant for 2025 Fall!
 
 <p style="margin-top:0">
   <a href="https://aclanthology.org/2023.argmining-1.24/">MILAB at PragTag-2023: Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty</a> <br>
-  <span style="font-size:13px"><b>Yoonsang Lee</b><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung<br>ArgMining @ EMNLP 2023 </span><br>
+  <span style="font-size:13px"><b>Yoonsang Lee</b><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung<br>ArgMining Workshop @ EMNLP 2023 </span><br>
   <span style="font-size:12px"><a href="./assets/pdf/enhancingCG_poster.pdf">[poster]</a></span>
 </p>
 <hr>
@@ -140,7 +140,7 @@ I am a Ph.D Applicant for 2025 Fall!
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
-    Naver Clova AI
+    Naver AI Lab
     <span style="font-size:11px"> Jan 2023 - Feb 2023</span>
   </div>
 </p>
@@ -148,15 +148,11 @@ I am a Ph.D Applicant for 2025 Fall!
 
 ### Teaching
 
-<div><b>Instructor</b></div>
-
-<div style="display:flex; justify-content:space-between; margin-bottom:15px;">
+<div><b>Teaching Assistant</b></div>
+<div style="display:flex; justify-content:space-between;">
     054.003 Understanding Large Language Models
     <span style="font-size:11px"> Fall 2024</span>
 </div>
-
-<div><b>Teaching Assistant</b></div>
-
 <div style="display:flex; justify-content:space-between;">
     4190.407 Algorithms
     <span style="font-size:11px"> Spring 2024</span>
