@@ -4,15 +4,14 @@ layout: default
 
 Hello! I am a senior student at Seoul National University.
 
-My research focuses on NLP, where I am mainly interested in language models that adapt well to new scenarios and acquire meaningful knowledge. Current areas of interest include:
+My research focuses on NLP, where I am interested in making language models better utilize dynamic information and acquire meaningful knowledge. Current areas of interest include:
 
 <ul style="margin-bottom:14px;padding-left:20px;">
-  <li><b>Retrieval-Augmented Generation</b>: Leveraging external documents to provide factual and contextually grounded responses.</li>
-  <li><b>Human-LM Interaction</b>: Enabling language models to learn from and tailor to human interaction.</li>
-  <li><b>LLM Understanding</b>: Understanding the capabilities of current large language models (e.g., in-context learning, factuality).</li>
+<li><b>Knowledgeable LMs</b>: How do LMs store parametric knowledge? How to incorporate external information through retrieval-augmented generation?</li>
+<li><b>Interactive LMs</b>: How can LMs learn from and adapt to individual preferences? How can LM agents anticipate user needs and take proactive actions?</li>
 </ul>
 
-I am a Ph.D Applicant for 2025 Fall!
+I am a Ph.D Applicant for 2025 Fall! <a href="assets/pdf/cv.pdf"><b>Here</b></a> you can find my CV.
 
 <hr>
 
@@ -61,7 +60,7 @@ I am a Ph.D Applicant for 2025 Fall!
 </p>
 
 <p style="margin-top:0">
-<a href="https://arxiv.org/abs/2409.16570">Disentangling Questions from Query Generation for Task-Adaptive Retrieval</a> <br>
+<a href="https://aclanthology.org/2024.findings-emnlp.274/">Disentangling Questions from Query Generation for Task-Adaptive Retrieval</a> <br>
 <span style="font-size:13px"><b>Yoonsang Lee</b>, Minsoo Kim, Seung-won Hwang<br>Findings of EMNLP 2024 (short)<br>ENLSP Workshop @ NeurIPS 2024</span> <br>
 <span style="font-size:12px"><a href="./assets/pdf/DisentanglingQF_poster.pdf">[poster]</a></span>
 </p>
