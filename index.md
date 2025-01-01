@@ -11,7 +11,7 @@ My research focuses on NLP, where I am interested in making language models bett
 <li><b>Interactive LMs</b>: How can LMs learn from and adapt to individual preferences? How can LM agents anticipate user needs and take proactive actions?</li>
 </ul>
 
-I am a Ph.D Applicant for 2025 Fall! <a href="assets/pdf/cv.pdf"><b>Here</b></a> you can find my CV.
+I am a Ph.D Applicant for 2025 Fall! <a href="assets/pdf/cv.pdf">Here</a> you can find my CV.
 
 <hr>
 
