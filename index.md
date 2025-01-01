@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello! I am a senior student at Seoul National University.
+Hello! I am a senior student at Seoul National University, advised by Prof. <a href="https://eunsol.github.io">Eunsol Choi</a>. Previously, I was fortunate to be working with Prof. <a href="https://seungwonh.github.io/">Seung-won Hwang</a> and Prof. <a href="https://juhokim.com">Juho Kim</a>.
 
 My research focuses on NLP, where I am interested in making language models better utilize dynamic information and acquire meaningful knowledge. Current areas of interest include:
 
@@ -13,6 +13,38 @@ My research focuses on NLP, where I am interested in making language models bett
 
 I am a Ph.D Applicant for 2025 Fall! <a href="assets/pdf/cv.pdf">Here</a> you can find my CV.
 
+<hr>
+
+### Publications
+
+<p style="margin-top:0">
+<a href="https://arxiv.org/abs/2410.20088">RARe: Retrieval Augmented Retrieval With In-context Examples</a> <br>
+<span style="font-size:13px">Atula Tejaswi, <b>Yoonsang Lee</b>, Sujay Sanghavi, Eunsol Choi<br>arXiv Preprint 2024</span>
+</p>
+
+<p style="margin-top:0">
+<a href="https://aclanthology.org/2024.findings-emnlp.274/">Disentangling Questions from Query Generation for Task-Adaptive Retrieval</a> <br>
+<span style="font-size:13px"><b>Yoonsang Lee</b>, Minsoo Kim, Seung-won Hwang<br>Findings of EMNLP 2024 (short)<br>ENLSP Workshop @ NeurIPS 2024</span> <br>
+<span style="font-size:12px"><a href="./assets/pdf/DisentanglingQF_poster.pdf">[poster]</a></span>
+</p>
+
+<p style="margin-top:0">
+  <a href="https://openreview.net/forum?id=mkYCfO822n">AmbigDocs: Reasoning across Documents on Different Entities under the Same Name</a> <br>
+  <span style="font-size:13px"><b>Yoonsang Lee</b>, Xi Ye, Eunsol Choi<br>COLM 2024</span><br>
+  <span style="font-size:12px"><a href="https://ambigdocs.github.io">[Project Website]</a> <a href="./assets/pdf/ambigdocsRA_poster.pdf">[poster]</a></span>
+</p>
+
+<p style="margin-top:0">
+  <a href="https://aclanthology.org/2024.findings-naacl.133/">Crafting In-context Examples according to LMs' Parametric Knowledge</a> <br>
+  <span style="font-size:13px"><b>Yoonsang Lee</b><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi<br>Findings of NAACL 2024</span><br>
+  <span style="font-size:12px"><a href="./assets/pdf/craftingIE_poster.pdf">[poster]</a></span>
+</p>
+
+<p style="margin-top:0">
+  <a href="https://aclanthology.org/2023.argmining-1.24/">MILAB at PragTag-2023: Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty</a> <br>
+  <span style="font-size:13px"><b>Yoonsang Lee</b><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung<br>ArgMining Workshop @ EMNLP 2023 </span><br>
+  <span style="font-size:12px"><a href="./assets/pdf/enhancingCG_poster.pdf">[poster]</a></span>
+</p>
 <hr>
 
 ### Education
@@ -52,75 +84,27 @@ I am a Ph.D Applicant for 2025 Fall! <a href="assets/pdf/cv.pdf">Here</a> you ca
 </p> 
 <hr>
 
-### Publications
-
-<p style="margin-top:0">
-<a href="https://arxiv.org/abs/2410.20088">RARe: Retrieval Augmented Retrieval With In-context Examples</a> <br>
-<span style="font-size:13px">Atula Tejaswi, <b>Yoonsang Lee</b>, Sujay Sanghavi, Eunsol Choi<br>arXiv Preprint 2024</span>
-</p>
-
-<p style="margin-top:0">
-<a href="https://aclanthology.org/2024.findings-emnlp.274/">Disentangling Questions from Query Generation for Task-Adaptive Retrieval</a> <br>
-<span style="font-size:13px"><b>Yoonsang Lee</b>, Minsoo Kim, Seung-won Hwang<br>Findings of EMNLP 2024 (short)<br>ENLSP Workshop @ NeurIPS 2024</span> <br>
-<span style="font-size:12px"><a href="./assets/pdf/DisentanglingQF_poster.pdf">[poster]</a></span>
-</p>
-
-<p style="margin-top:0">
-  <a href="https://openreview.net/forum?id=mkYCfO822n">AmbigDocs: Reasoning across Documents on Different Entities under the Same Name</a> <br>
-  <span style="font-size:13px"><b>Yoonsang Lee</b>, Xi Ye, Eunsol Choi<br>COLM 2024</span><br>
-  <span style="font-size:12px"><a href="https://ambigdocs.github.io">[Project Website]</a> <a href="./assets/pdf/ambigdocsRA_poster.pdf">[poster]</a></span>
-</p>
-
-<p style="margin-top:0">
-  <a href="https://aclanthology.org/2024.findings-naacl.133/">Crafting In-context Examples according to LMs' Parametric Knowledge</a> <br>
-  <span style="font-size:13px"><b>Yoonsang Lee</b><sup>*</sup>, Pranav Atreya<sup>*</sup>, Xi Ye, Eunsol Choi<br>Findings of NAACL 2024</span><br>
-  <span style="font-size:12px"><a href="./assets/pdf/craftingIE_poster.pdf">[poster]</a></span>
-</p>
-
-<p style="margin-top:0">
-  <a href="https://aclanthology.org/2023.argmining-1.24/">MILAB at PragTag-2023: Enhancing Cross-Domain Generalization through Data Augmentation with Reduced Uncertainty</a> <br>
-  <span style="font-size:13px"><b>Yoonsang Lee</b><sup>*</sup>, Dongryeol Lee<sup>*</sup>, Kyomin Jung<br>ArgMining Workshop @ EMNLP 2023 </span><br>
-  <span style="font-size:12px"><a href="./assets/pdf/enhancingCG_poster.pdf">[poster]</a></span>
-</p>
-<hr>
-
-### Experiences
+<!-- ### Experiences
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
     <span>
       <a href="https://www.nlp.utexas.edu/">UT NLP Lab</a>
-      <!-- <span style="font-size:11px">Advisor: Dr. Eunsol Choi</span> -->
     </span>
     <span style="font-size:11px"> Aug 2023 - Present</span>
   </div>
   <span style="font-size:12px">(Advisor: Prof. <a href="https://eunsol.github.io">Eunsol Choi</a>)</span>
-  <!-- <ul style="margin:0">
-  </ul> -->
 </p>
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
     <span>
       <a href="https://www.kixlab.org">Kaist Interaction Lab</a>
-      <!-- <span style="font-size:11px">Advisor: Dr. Eunsol Choi</span> -->
     </span>
     <span style="font-size:11px"> Jul 2024 - Oct 2024</span>
   </div>
   <span style="font-size:12px">(Advisor: Prof. <a href="https://juhokim.com">Juho Kim</a>)</span>
-  <!-- <ul style="margin:0">
-  </ul> -->
 </p>
-
-<!-- <p style="margin:0">
-<div style="display:flex; justify-content:space-between">
-  <span>
-    <a href="https://ldilab-snu.notion.site/ldilab-snu/Home-47ac59b6129f4dfb9d0f5603c317acda">Language and Data Intelligence Lab</a>
-  </span>
-    <span style="font-size:11px"></span>
-  </div>
-  <span style="font-size:12px">(Advisor: Prof. <a href="https://seungwonh.github.io">Seungwon Hwang</a>)</span>
-</p> -->
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
@@ -130,20 +114,16 @@ I am a Ph.D Applicant for 2025 Fall! <a href="assets/pdf/cv.pdf">Here</a> you ca
     <span style="font-size:11px"> Jul 2022 - Jul 2023</span>
   </div>
   <span style="font-size:12px">(Advisor: Prof. <a href="http://milab.snu.ac.kr/kjung/index.html">Kyomin Jung</a>)</span>
-  <!-- <ul style="margin:0">
-  </ul> -->
-</p>
-<!-- <hr> -->
-
+</p> -->
 <!-- ### Work Experience -->
 
-<p style="margin:0">
+<!-- <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
     Naver AI Lab
     <span style="font-size:11px"> Jan 2023 - Feb 2023</span>
   </div>
 </p>
-<hr>
+<hr> -->
 
 ### Teaching
 
