@@ -2,14 +2,9 @@
 layout: default
 ---
 
-Hello! I am a senior student at Seoul National University, advised by Prof. <a href="https://eunsol.github.io">Eunsol Choi</a>. Previously, I was fortunate to be working with Prof. <a href="https://seungwonh.github.io/">Seung-won Hwang</a> and Prof. <a href="https://juhokim.com">Juho Kim</a>.
+Hello! I am an incoming Ph.D. student in Computer Science at Princeton University, advised by Prof. <a href="https://www.cs.princeton.edu/~danqic/">Danqi Chen</a>. Prior to that, I received B.S. in CSE from Seoul National University, where I was fortunate to be working with Prof. <a href="https://eunsol.github.io">Eunsol Choi</a>.
 
-My research focuses on NLP, where I am interested in making language models better utilize dynamic information and acquire meaningful knowledge. Current areas of interest include:
-
-<ul style="margin-bottom:14px;padding-left:20px;">
-<li><b>Knowledgeable LMs</b>: How do LMs store parametric knowledge? How to incorporate external information through retrieval-augmented generation?</li>
-<li><b>Interactive LMs</b>: How can LMs learn from and adapt to individual preferences? How can LM agents anticipate user needs and take proactive actions?</li>
-</ul>
+My research focuses on NLP, where I am interested in making large language models better utilize dynamic information and acquire meaningful knowledge. Current areas of interest include retrieval-augmented generation, multi-turn interactions, and web agents.
 
 <hr>
 
@@ -49,8 +44,19 @@ My research focuses on NLP, where I am interested in making language models bett
 
 <p style="margin:0">
 <div style="display:flex; justify-content:space-between">
+    <a href="https://www.princeton.edu">Princeton University</a>
+    <span style="font-size:11px"> Aug 2025 - Present</span>
+  </div>
+
+  <ul style="margin:0">
+    <li>Ph.D. in Computer Science</li>
+  </ul>
+</p>
+
+<p style="margin:0">
+<div style="display:flex; justify-content:space-between">
     <a href="https://snu.ac.kr/">Seoul National University</a>
-    <span style="font-size:11px"> Mar 2019 - Present</span>
+    <span style="font-size:11px"> Mar 2019 - Aug 2025</span>
   </div>
 
   <ul style="margin:0">
@@ -63,7 +69,7 @@ My research focuses on NLP, where I am interested in making language models bett
     </details></li> -->
 </p>
 
-<p style="margin:0">
+<!-- <p style="margin:0">
   <div style="display:flex; justify-content:space-between">
     <a href="https://www.utexas.edu">The University of Texas at Austin</a>
     <span style="font-size:11px">Aug 2023 - Dec 2023</span>
@@ -72,7 +78,7 @@ My research focuses on NLP, where I am interested in making language models bett
   <ul style="margin:0">
     <li>Exchange Student in Computer Science</li>
   </ul>
-</p>
+</p> -->
 
 <p style="margin:0">
   <div style="display:flex; justify-content:space-between">
@@ -147,7 +153,7 @@ My research focuses on NLP, where I am interested in making language models bett
 ### Service
 
 <div><b>Conference Reviewer</b>: ACL ARR 2024, ICLR 2024</div>
-<div><b>Workshop Reviewer</b>: ACL SRW 2024, ENLSP 2024</div>
+<div><b>Workshop Reviewer</b>: ACL SRW 2024, ENLSP 2024, KnowledgeNLP 2025</div>
 <!-- <div style="display:flex; justify-content:space-between;">
     EMNLP<span style="font-size:11px"> 2024</span>
   </div>
