@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello! I am an incoming Ph.D. student in Computer Science at Princeton University, advised by Prof. <a href="https://www.cs.princeton.edu/~danqic/">Danqi Chen</a>. Prior to that, I received B.S. in CSE from Seoul National University, where I was fortunate to be working with Prof. <a href="https://eunsol.github.io">Eunsol Choi</a>.
+Hello! I am an incoming Ph.D. student in Computer Science at Princeton University, advised by Prof. <a href="https://www.cs.princeton.edu/~danqic/">Danqi Chen</a>. Prior to that, I received B.S. in CSE from Seoul National University, and I was fortunate to be working with Prof. <a href="https://eunsol.github.io">Eunsol Choi</a>.
 
 My research focuses on NLP, where I am interested in making large language models better utilize dynamic information and acquire meaningful knowledge. Current areas of interest include retrieval-augmented generation, multi-turn interactions, and web agents.
 
@@ -12,7 +12,7 @@ My research focuses on NLP, where I am interested in making large language model
 
 <p style="margin-top:0">
 <a href="https://arxiv.org/abs/2410.20088">RARe: Retrieval Augmented Retrieval With In-context Examples</a> <br>
-<span style="font-size:13px">Atula Tejaswi, <b>Yoonsang Lee</b>, Sujay Sanghavi, Eunsol Choi<br>arXiv Preprint 2024</span>
+<span style="font-size:13px">Atula Tejaswi, <b>Yoonsang Lee</b>, Sujay Sanghavi*, Eunsol Choi*<br>COLM 2025</span>
 </p>
 
 <p style="margin-top:0">
